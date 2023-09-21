@@ -31,5 +31,6 @@ Farklı kategorilere ayrılmış olarak sunulan eğitim kurslarına erişim sağ
 
 <h2>Ekran Goruntusu<h2>
 
-![](Course.gif)
+ ![](Course.gif)
+
 
