@@ -30,4 +30,6 @@ Farklı kategorilere ayrılmış olarak sunulan eğitim kurslarına erişim sağ
 </ul>
 
 <h2>Ekran Goruntusu<h2>
+
 ![](Course.gif)
+
