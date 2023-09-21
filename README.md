@@ -29,7 +29,7 @@ Farklı kategorilere ayrılmış olarak sunulan eğitim kurslarına erişim sağ
 <li>CSS</li>
 </ul>
 
-<h2>Ekran Goruntusu<h2>
+<h2>Ekran Goruntusu</h2>
 
  ![](Course.gif)
 
